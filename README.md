@@ -39,4 +39,4 @@ class BackendStack:
 ### 📫 Как со мной связаться
 - Telegram: [@Viocid](https://t.me/Viocid)  
 - Email: viocid@bk.ru  
-- Резюме: [PDF](ссылка_на_твое_резюме_в_облаке_при_необходимости)
+- Резюме: (https://spb.hh.ru/resume/a71fb6afff078de2fb0039ed1f636e714f4c77)
