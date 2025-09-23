@@ -3,16 +3,16 @@
 Люблю создавать полезные и технологичные сервисы, которые решают реальные задачи.
 
 ### 🛠️ Мой стек технологий
-class BackendStack:
-languages = ["Python"]
-web_frameworks = ["Django", "Django REST Framework", "FastAPI", "Flask"]
-databases = ["PostgreSQL", "SQLite", "MySQL"]
-orm = ["Django ORM", "SQLAlchemy"]
-tools = ["Docker", "Git", "GitHub Actions", "Nginx", "Linux", "Postman"]
-testing = ["Pytest", "Unittest"]
-principles = ["OOP", "REST API", "CI/CD", "PEP8", "SOLID"]
 
-text
+```python
+class BackendStack:
+    languages = ["Python"]
+    web_frameworks = ["Django", "Django REST Framework", "FastAPI", "Flask"]
+    databases = ["PostgreSQL", "SQLite", "MySQL"]
+    orm = ["Django ORM", "SQLAlchemy"]
+    tools = ["Docker", "Git", "GitHub Actions", "Nginx", "Linux", "Postman"]
+    testing = ["Pytest", "Unittest"]
+    principles = ["OOP", "REST API", "CI/CD", "PEP8", "SOLID"]
 
 ### 📁 Мои ключевые проекты
 
