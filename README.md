@@ -13,7 +13,7 @@ class BackendStack:
     tools = ["Docker", "Git", "GitHub Actions", "Nginx", "Linux", "Postman"]
     testing = ["Pytest", "Unittest"]
     principles = ["OOP", "REST API", "CI/CD", "PEP8", "SOLID"]
-
+```
 ### 📁 Мои ключевые проекты
 
 - **💝 Cat Charity Fund**  
