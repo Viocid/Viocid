@@ -1,42 +1,160 @@
-### 💻 Обо мне  
-Привет! Меня зовут Константин, я Python-разработчик с фокусом на бэкенд и веб-разработку.  
-Люблю создавать полезные и технологичные сервисы, которые решают реальные задачи.
+# Konstantin Lavrenikov
 
-### 🛠️ Мой стек технологий
+**Python Backend Developer**  
+FastAPI • Django REST Framework • PostgreSQL • Docker • REST API
 
-```python
-class BackendStack:
-    languages = ["Python"]
-    web_frameworks = ["Django", "Django REST Framework", "FastAPI", "Flask"]
-    databases = ["PostgreSQL", "SQLite", "MySQL"]
-    orm = ["Django ORM", "SQLAlchemy"]
-    tools = ["Docker", "Git", "GitHub Actions", "Nginx", "Linux", "Postman"]
-    testing = ["Pytest", "Unittest"]
-    principles = ["OOP", "REST API", "CI/CD", "PEP8", "SOLID"]
-```
-### 📁 Мои ключевые проекты
+I build REST APIs, backend services, automation tools and database-driven applications with Python.
 
-- **💝 Cat Charity Fund**  
-  https://github.com/Viocid/cat_charity_fund  
-  REST API для платформы сбора пожертвований. Реализована JWT-аутентификация, CRUD-операции, права доступа.  
-  *Стек: Django REST Framework, PostgreSQL, Djoser, Docker, Nginx, Pytest, GitHub Actions (CI/CD)*
+---
 
-- **✂️ Yacut**  
-  https://github.com/Viocid/yacut  
-  Сервис для сокращения ссылок с API, валидацией данных и статистикой переходов.  
-  *Стек: Flask, SQLAlchemy, REST API*
+## About me
 
-- **🍕 Foodgram**  
-  https://github.com/Viocid/foodgram  
-  «Продуктовый помощник» для публикации рецептов, подписки на авторов и создания списков покупок.  
-  *Стек: Django, PostgreSQL, Docker, Nginx*
+Backend-focused Python developer with hands-on experience building API services, web applications, automation scripts and team-based backend projects.
 
-- **📚 API Yamdb**  
-  https://github.com/Viocid/api_yamdb  
-  Групповой проект (3 человека): API для комментирования и оценки произведений. Роль: Team Lead.  
-  *Стек: Django REST Framework, JWT, Simple-JWT, PostgreSQL*
+My main focus is backend development with Python: clean API design, database models, authentication, permissions, Dockerized deployment and maintainable project structure.
 
-### 📫 Как со мной связаться
-- Telegram: [@Viocid](https://t.me/Viocid)  
-- Email: viocid@bk.ru  
-- Резюме: (https://spb.hh.ru/resume/a71fb6afff078de2fb0039ed1f636e714f4c77)
+I am currently improving my skills in:
+
+- FastAPI and async Python
+- Backend architecture
+- PostgreSQL and SQLAlchemy
+- Docker-based deployment
+- Production-ready API design
+
+---
+
+## Tech stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-backend-009688)
+![Django](https://img.shields.io/badge/Django-backend-092E20)
+![DRF](https://img.shields.io/badge/DRF-REST%20API-red)
+![Flask](https://img.shields.io/badge/Flask-backend-black)
+
+- Python
+- FastAPI
+- Django
+- Django REST Framework
+- Flask
+- REST API
+- JWT Authentication
+
+### Databases and ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-336791)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
+
+- PostgreSQL
+- SQLite
+- MySQL
+- SQLAlchemy
+- Django ORM
+- Alembic
+
+### DevOps and tools
+
+![Docker](https://img.shields.io/badge/Docker-containerization-2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF)
+![Linux](https://img.shields.io/badge/Linux-environment-FCC624)
+
+- Docker
+- Docker Compose
+- Git
+- GitHub Actions
+- Nginx
+- Linux
+- Postman
+
+### Testing and engineering
+
+- Pytest
+- Unittest
+- Flake8
+- OOP
+- SOLID basics
+- CI/CD
+
+---
+
+## Featured projects
+
+### Cat Charity Fund
+
+FastAPI backend service for charity project and donation management.
+
+**Highlights:** async SQLAlchemy, Alembic migrations, JWT authentication, donation distribution logic, Google Sheets reports.
+
+**Stack:** FastAPI, SQLAlchemy, Alembic, FastAPI Users, Aiogoogle, Pytest.
+
+Repository: https://github.com/Viocid/cat_charity_fund
+
+---
+
+### Foodgram
+
+Full-stack recipe publishing platform with subscriptions, favorites and shopping list generation.
+
+**Highlights:** Django REST API, PostgreSQL, Docker Compose, Nginx, React frontend, CI/CD with GitHub Actions.
+
+**Stack:** Django, DRF, PostgreSQL, Docker, Nginx, GitHub Actions.
+
+Repository: https://github.com/Viocid/foodgram
+
+---
+
+### API Yamdb
+
+Collaborative REST API platform for reviews, ratings and comments.
+
+**Highlights:** role-based permissions, JWT authentication, nested resources, team development experience.
+
+**Role:** Team Lead.
+
+**Stack:** Django REST Framework, PostgreSQL, Simple JWT, Pytest.
+
+Repository: https://github.com/Viocid/api_yamdb
+
+---
+
+### Yacut
+
+URL shortening service with a web interface and REST API.
+
+**Highlights:** short link generation, custom aliases, validation, API error handling.
+
+**Stack:** Flask, SQLAlchemy, Flask-WTF, Flask-Migrate, Pytest.
+
+Repository: https://github.com/Viocid/yacut
+
+---
+
+### PEP Parser
+
+CLI parser for Python documentation and PEP status analytics.
+
+**Highlights:** command-line interface, BeautifulSoup parsing, request caching, logging, CSV reports.
+
+**Stack:** Python, BeautifulSoup4, Requests, Requests Cache, PrettyTable, Pytest.
+
+---
+
+## Career goal
+
+I am looking for a remote Backend Python Developer role where I can contribute to backend systems, improve production engineering skills and grow within an international team.
+
+---
+
+## Languages
+
+- Russian — Native
+- English — Basic technical proficiency: reading documentation and written communication
+
+---
+
+## Contacts
+
+- Telegram: [@Viocid](https://t.me/Viocid)
+- Email: versalione@gmail.com
+- GitHub: https://github.com/Viocid
