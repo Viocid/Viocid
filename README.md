@@ -92,6 +92,18 @@ Repository: https://github.com/Viocid/cat_charity_fund
 
 ---
 
+### Barista Shift Management Telegram Bot
+
+Telegram bot and backend platform for managing barista work shifts across multiple coffee shops.
+
+**Highlights:** shift scheduling, role-based access control, automated notifications, administrative tools, Celery task processing, monitoring dashboard.
+
+**Stack:** FastAPI, PostgreSQL, SQLAlchemy, Celery, Flower, python-telegram-bot.
+
+Repository: https://github.com/Viocid/skuratov_coffee-develop
+
+---
+
 ### Foodgram
 
 Full-stack recipe publishing platform with subscriptions, favorites and shopping list generation.
